@@ -1,5 +1,5 @@
 # Temporal-FX
-Video effects written in python for the application of non-temporal effects
+Video effects written in python for the exploration of temporal effects
 
 This is an experimental video effect playing with non-linear time.
 
